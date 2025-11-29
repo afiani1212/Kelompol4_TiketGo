@@ -27,11 +27,20 @@
 ## DataBase
 - MySql
 
+---
+
+## Directory
+1. client
+2. server
+
+---
+
+
 ## Cara Menjalankan Project
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/afiani1212/Project_TiketGo.git
+git clone https://github.com/afiani1212/Kelompol4_TiketGo.git
 cd Ticket Booking
 ````
 

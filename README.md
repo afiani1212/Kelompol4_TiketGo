@@ -74,4 +74,4 @@ http://localhost:5173
 3. M.Adli > DELETE
 4. Risma > PUT
 
----
+
